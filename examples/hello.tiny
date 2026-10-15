@@ -1,0 +1,3 @@
+// Hello, Tiny!
+let name = "World";
+print("Hello, " + name + "!");
