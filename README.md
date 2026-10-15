@@ -15,7 +15,7 @@ A school project: design a small language, then build the tools around it.
 Needs Python 3.10 or newer (tkinter is included with the normal Python installer).
 
 ```powershell
-git clone https://github.com/miyawilson35/tiny-lang.git
+git clone https://github.com/Wilsonmiya3/tiny-lang.git
 cd tiny-lang
 python tests\test_tiny.py                      # run the test suite (should say OK)
 python main.py examples\factorial.tiny         # run a program
